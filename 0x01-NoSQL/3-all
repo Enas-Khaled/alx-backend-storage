@@ -1,1 +1,1 @@
-db.school.find().forEach(printjson);
+db.school.find()
